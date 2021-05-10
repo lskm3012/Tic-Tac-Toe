@@ -4,4 +4,5 @@
 - The game lets the user play against the LaunchPad against different modes of difficulty
 - The code uses an AI algorithm to let the LaunchPad always choose the best move if that difficulty is chosen
 - THe project utilizes timers and ADC peripherals to keep track of time passed when playing and obtaining user input from a slider potentiometer
-- Project Video.mp4 describes the implementational details and shows a demonstration of the complete game
+- Project_Video.mp4 describes the implementational details and shows a demonstration of the complete game
+- CCS_Project.zip has the C code used with Code Composer Studio for this project
